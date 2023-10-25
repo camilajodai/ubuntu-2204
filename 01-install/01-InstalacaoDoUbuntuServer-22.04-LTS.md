@@ -154,7 +154,7 @@ Instalação do Ubuntu Server: https://ubuntu.com/server/docs/installation
 	_	<Continue>
 	
 	_ 11. Profile setup
-	_ 		Your name: Seu Nome e Sobrenome <Tab>
+	_ 		Your name: Camila Jodai <Tab>
 	_ 		Your server's name: wscamila <Tab>
 	_ 		Pick a username: camila <Tab>
 	_ 		Choose a passwords: 123@senac <Tab>
