@@ -122,7 +122,7 @@ Instalação do Ubuntu Server: https://ubuntu.com/server/docs/installation
 
 	_ 06. Network connections
 	_		enp0s3 eth
-	_		DHCPv4 192.168.0.XXX/24
+	_		DHCPv4 10.26.44.XXX/24
 			OBSERVAÇÃO IMPORTANTE: VERIFICAR O ENDEREÇO IPv4 QUE VOCÊ ESTÁ USANDO NA SUA
 			REDE INTERNA.
 	_ 	<Done>
@@ -155,10 +155,10 @@ Instalação do Ubuntu Server: https://ubuntu.com/server/docs/installation
 	
 	_ 11. Profile setup
 	_ 		Your name: Seu Nome e Sobrenome <Tab>
-	_ 		Your server's name: wsvaamonde <Tab>
-	_ 		Pick a username: vaamonde <Tab>
-	_ 		Choose a passwords: pti@2018 <Tab>
-	_ 		Confirm your passwords: pti@2018
+	_ 		Your server's name: wscamila <Tab>
+	_ 		Pick a username: camila <Tab>
+	_ 		Choose a passwords: 123@senac <Tab>
+	_ 		Confirm your passwords: 123@senac
 			OBSERVAÇÃO: ALTERAR OS DADOS DO NOME DO SERVIDOR, USUÁRIO E SENHA PARA O SEU
 			CENÁRIO.
 	_ 	<Done>
@@ -184,5 +184,5 @@ Instalação do Ubuntu Server: https://ubuntu.com/server/docs/installation
 	AGUARDAR A INICIALIZAÇÃO TOTAL DO SERVIDOR UBUNTU SERVER, NO FINAL SERÁ GERADO VÁRIAS
 	CHAVES DE AUTENTICAÇÃO DO SSH SERVER, PRESSIONAR <ENTER> PARA APARECER A TELA DE LOGIN
 
-	_ swvaamonde login: vaamonde <Enter>
-	_ Password: pti@2018 <Enter>
+	_ swcamila login: camila <Enter>
+	_ Password: 123@senac <Enter>
