@@ -156,7 +156,7 @@ Instalação do Ubuntu Server: https://ubuntu.com/server/docs/installation
 	_ 11. Profile setup
 	_ 		Your name: Camila Jodai <Tab>
 	_ 		Your server's name: wscamila <Tab>
-	_ 		Pick a username: camila <Tab>
+	_ 		Pick a username: senac <Tab>
 	_ 		Choose a passwords: 123@senac <Tab>
 	_ 		Confirm your passwords: 123@senac
 			OBSERVAÇÃO: ALTERAR OS DADOS DO NOME DO SERVIDOR, USUÁRIO E SENHA PARA O SEU
@@ -184,5 +184,5 @@ Instalação do Ubuntu Server: https://ubuntu.com/server/docs/installation
 	AGUARDAR A INICIALIZAÇÃO TOTAL DO SERVIDOR UBUNTU SERVER, NO FINAL SERÁ GERADO VÁRIAS
 	CHAVES DE AUTENTICAÇÃO DO SSH SERVER, PRESSIONAR <ENTER> PARA APARECER A TELA DE LOGIN
 
-	_ swcamila login: camila <Enter>
+	_ swcamila login: senac <Enter>
 	_ Password: 123@senac <Enter>
