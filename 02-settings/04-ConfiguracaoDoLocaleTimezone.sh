@@ -15,7 +15,7 @@
 #
 # Verificando as informações do Locale (Localidade) do Sistema Operacional Ubuntu Server
 # opção do comando locale: -a (all-locales)
-sudo localectl
+sudo localectl  (CTL É ABREVIAÇÃO DE CONTROLE)
 sudo locale -a
 #
 # Configurando o Locale (Localidade) do Brasil no Sistema Operacional Ubuntu Server
