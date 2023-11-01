@@ -82,7 +82,14 @@ web NCSA HTTPd criado por Rob McCool.
 
 	#acessando o diretório padrão dos Sites do Apache2 Server
 	cd /var/www/html
-	
+
+ td q for criar eh em minusculo
+ nao usa acento
+ n usa espaço (saopaulo)
+ default ou index o começo
+ extensao eh .html .php .js
+
+ 
 		#opção do comando mkdir: -v (verbose)
 		sudo mkdir -v teste
 		
