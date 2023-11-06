@@ -145,7 +145,7 @@ da Oracle Corporation, com mais de 10 milhões de instalações pelo mundo.
 	sudo mysql -u root -p		ESTAMOS AQ
 
 	#criando o usuário Root Remoto do MySQL Server
-	CREATE USER 'root'@'%' IDENTIFIED WITH mysql_native_password BY '123@senac';
+	CREATE USER 'root'@'%' IDENTIFIED WITH mysql_native_password BY '123@senac';     % se conetar remoto
 	GRANT ALL ON *.* TO 'root'@'%';
 	FLUSH PRIVILEGES;
 
