@@ -142,7 +142,7 @@ da Oracle Corporation, com mais de 10 milhões de instalações pelo mundo.
 	sudo systemctl status mysql
 
 	#acessar o MySQL Server como Root
-	sudo mysql -u root -p
+	sudo mysql -u root -p		ESTAMOS AQ
 
 	#criando o usuário Root Remoto do MySQL Server
 	CREATE USER 'root'@'%' IDENTIFIED WITH mysql_native_password BY '123@senac';
